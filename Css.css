@@ -1,0 +1,29 @@
+li {
+    display: inline;
+    list-style: none;
+    width: auto;
+    margin-right: 20px;
+   color: aliceblue;
+    position: relative; 
+    
+}
+div {
+    float: right; 
+    border: solid blanchedalmond;
+    padding-right: 20px;
+    
+}
+
+h1 {
+    
+    color:blanchedalmond;
+    font-family: 'Josefin Sans', sans-serif;
+}
+img {
+    float: left;
+    width: auto;
+    height: 200px;
+    position: relative left:200px;
+    padding-left: 20px;    
+}
+

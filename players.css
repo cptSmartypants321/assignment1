@@ -1,0 +1,97 @@
+
+body
+{
+    background-image: url(images/FootballBackground.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+li 
+{
+    display: inline;
+    list-style: none;
+    width: auto;
+    margin-right: 20px;
+   color: aliceblue;
+    position: relative; 
+    
+}
+
+h1
+{
+    text-align: center;
+    color:blanchedalmond;
+    font-family: 'Josefin Sans', sans-serif;
+}
+img
+{
+    float: left;
+    width:200px;
+    height: 200px;
+    position: relative left:200px;
+    padding-left: 20px;    
+}
+.logo{
+    width: auto;
+    height: 200px;
+    margin-right: 50%;
+}
+
+div.nav
+{
+    float: left; 
+    border: solid blanchedalmond;
+    border-radius: 5px;
+    border-width: thin;
+
+}
+/* Anton */
+div.player{
+  
+    border-bottom: 2px solid white;
+    float: right; 
+    width: 100%;
+    padding-bottom: 10px;
+    float:right;
+         }
+.hPlayers
+{
+    color: gold;
+    font-family: 'Exo 2', sans-serif;
+    padding-left: 15px;
+    padding-top: 20px;
+    text-align: center;
+    font-size: 30px;
+    
+}
+.hp
+{
+    color:blanchedalmond;
+    align-content:center;
+    font-family:'Exo 2',sans-serif;
+    font-size: 45px;
+    
+}
+.imageP
+{
+    height:200px;
+    width: 200px;
+    padding-right:15px;
+    
+}
+.name
+{
+font-size: 20px;
+font-weight: bold;
+text-align: center;
+color: gold;
+    
+    
+}
+
+p.description
+{
+     text-align: center;
+    color: blanchedalmond;
+    font-size: large;
+    padding: 15px;
+}
